@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+Specification-Title: trino-jdbc
+Specification-Version: 352.0
+Implementation-Title: trino-jdbc
+Build-Time: 2021-02-09T21:13:21-0800
+Git-Commit-Id: 690ddcd090e316b6708aabf1675749ff0bb45868
+Implementation-Version: 352
+

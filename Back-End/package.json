@@ -1,0 +1,29 @@
+{
+  "name": "react-node-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dalongrong/trino-client": "^1.0.0",
+    "bindings": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "java": "^0.12.2",
+    "java-properties": "^1.0.2",
+    "jdbc": "^0.7.6",
+    "node-addon-api": "^5.0.0",
+    "nodejs-java": "^1.0.16",
+    "presto-client": "^0.12.2",
+    "state-pool": "^0.7.1",
+    "tedious": "^15.0.1",
+    "trino": "^1.1.1",
+    "trino-client": "^0.2.0"
+  }
+}
